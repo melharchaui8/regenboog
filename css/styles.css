@@ -1,0 +1,59 @@
+:root {
+  /* --bg-light: #fafafa;
+  --bg-white: #fff;
+  --bg-primary: #1eaaf1;
+  --bg-secondary: #fda638;
+  --bg-tertiary: #8cc152;
+  --bg-quarternary: #f1453d;
+  --bg-fifth: #5d50c6; */
+
+  --bg-light: #fafafa;
+  --bg-white: #fff;
+  --bg-primary: #1eaaf1;
+  --bg-secondary: #fda638;
+  --bg-tertiary: #8cc152;
+  --bg-quarternary: #f1453d;
+  --bg-fifth: #5d50c6;
+
+  /* --primary-color: #2e1f27;
+  --secondary-color: #f4c95d;
+  --background-color: #e7e393;
+  --button-color: #dd7230;
+  --button-hover-color: #854d27;
+  --white-color: #ffffff; */
+}
+
+.bg-light {
+  background: var(--bg-light);
+}
+
+.bg-white {
+  background: var(--bg-white);
+}
+
+.bg-primary {
+  background-color: var(--bg-primary);
+}
+
+.bg-secondary {
+  background: var(--bg-secondary);
+}
+
+.bg-tertiary {
+  background: var(--bg-tertiary);
+}
+
+.bg-quarternary {
+  background: var(--bg-quarternary);
+}
+
+.bg-fifth {
+  background: var(--bg-fifth);
+}
+
+a.bg-primary:hover,
+a.bg-primary:focus,
+button.bg-primary:hover,
+button.bg-primary:focus {
+  background-color: #0062cc !important;
+}
