@@ -14,6 +14,7 @@
   --bg-tertiary: #8cc152;
   --bg-quarternary: #f1453d;
   --bg-fifth: #5d50c6;
+  --primary-color: #212529;
 
   /* --primary-color: #2e1f27;
   --secondary-color: #f4c95d;
@@ -56,4 +57,10 @@ a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
   background-color: #0062cc !important;
+}
+
+.ftco-navbar-light {
+  background: transparent !important;
+  z-index: 3;
+  padding: 0;
 }
