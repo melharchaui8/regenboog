@@ -9,11 +9,11 @@
 
   --bg-light: #fafafa;
   --bg-white: #fff;
-  --bg-primary: #1eaaf1;
-  --bg-secondary: #fda638;
-  --bg-tertiary: #8cc152;
-  --bg-quarternary: #f1453d;
-  --bg-fifth: #5d50c6;
+  --bg-primary: #947e3b;
+  --bg-secondary: #087298;
+  --bg-tertiary: #f6eb37;
+  --bg-quarternary: #97f197;
+  --bg-fifth: #e17610;
   --primary-color: #212529;
 
   /* --primary-color: #2e1f27;
@@ -60,7 +60,7 @@ button.bg-primary:focus {
 }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: #fff !important;
   z-index: 3;
   padding: 0;
 }
